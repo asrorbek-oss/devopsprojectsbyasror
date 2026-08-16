@@ -1,7 +1,7 @@
 # Table of contents
 
 * [DevOps-Linux](README.md)
-* [Hands-On DevOps with Asror](02-docker/README.md)
+* [DevOps-Docker](02-docker/README.md)
   * [Docker Nima?](<02-docker/00-docker arxitekturasi.md>)
   * [01-docker o'rnatish](<02-docker/01-docker o'rnatish.md>)
 * [03-jenkins](03-jenkins/README.md)
