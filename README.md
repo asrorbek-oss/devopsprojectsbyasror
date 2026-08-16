@@ -10,3 +10,4 @@ Ubuntu OS ni donwload qilish !
 // Ubuntu image download URL : https://ubuntu.com/download/desktop
 ```
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
