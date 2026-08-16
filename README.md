@@ -1,10 +1,8 @@
 ---
-description: Dars-1
+description: Dars-1 Ubuntu OS ni VM-BOX ga o'rnatish !
 ---
 
 # DevOps-Linux
-
-Ubuntu OS ni VM-boxga o'rnatish
 
 Ubuntu OS ni donwload qilish !
 
