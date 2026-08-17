@@ -1,6 +1,7 @@
 # Table of contents
 
 * [DevOps-Linux](README.md)
+  * [Linux grub -recovery](01-linux/linux-grub-recovery.md)
 * [DevOps-Docker](02-docker/README.md)
   * [Docker Nima?](<02-docker/00-docker arxitekturasi.md>)
   * [01-docker o'rnatish](<02-docker/01-docker o'rnatish.md>)
