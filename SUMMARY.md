@@ -1,7 +1,7 @@
 # Table of contents
 
 * [DevOps-Linux](README.md)
-  * [Linux grub -recovery](01-linux/linux-grub-recovery.md)
+  * [Linux grub -recovery SUDOERS xato qilinganda](01-linux/linux-grub-recovery-sudoers-xato-qilinganda.md)
   * [Page 1](01-linux/page-1.md)
   * [Page 2](01-linux/page-2.md)
   * [Page 3](01-linux/page-3.md)
